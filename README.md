@@ -22,10 +22,10 @@ Welcome to my GitHub profile. Here's a little bit about me:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev1warden&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1warden&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
