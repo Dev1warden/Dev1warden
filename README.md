@@ -17,7 +17,8 @@ Welcome to my GitHub profile. Here's a little bit about me:
 
 ## Get in Touch
 
-- 📫 You can reach me via email at [linuxskyhanapy@gmail.com](mailto:your-email@example.com).
+- 📫 You can reach me via email at [
+dev1gamer.github@gmail.com](mailto:your-email@example.com).
 - 💼 Connect with me on warden___gamer.
 
 ## GitHub Stats
